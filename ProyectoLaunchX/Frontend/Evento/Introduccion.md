@@ -47,5 +47,5 @@ Version 0 de diseño Wireframe de acuerdo a los requerimientos del cliente
 
  - **UI**
 Versión 0 de diseño  de acuerdo a la paleta de colores que solicito el cliente
- - ![UI](./Introducción/Wireframe.png)
+ - ![UI](./Introducción/WireframeUI.png)
  
