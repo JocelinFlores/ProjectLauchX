@@ -8,6 +8,7 @@ Planeador de eventos quiere automatizar las solicitudes de sus clientes, esto lo
  - [Introducción](./ProyectoLaunchX/Frontend/Evento/Introduccion.md) 
  - [HTML]
  - [CSS]
+ - [Javascript]
 
 
 
