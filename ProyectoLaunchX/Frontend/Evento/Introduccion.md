@@ -35,13 +35,17 @@ Planeador de eventos quiere automatizar las solicitudes de sus clientes, esto lo
   Publico objetivo para consumir el servicio.La selección de la audiencia es basado en caracteristicas como:
   Edad,Actividades,Hobbies,Ubicación, Grupo social
   Herramienta utilizada: Miro 
- - [Target Audience](./ProyectoLaunchX/Frontend/Evento/Introducción/Target Audiences.png)
+ - ![Target Audience](./Introducción/Target Audiences.png)
  
  - **Diagrama de flujo**
  Descripción grafica del proceso 
- [Diagrama de flujo](./ProyectoLaunchX/Frontend/Evento/Introducción/Diagramadeflujo.png)
+ - ![Diagrama de flujo](./Introducción/Diagramadeflujo.png)
  
  - **Wireframe**
+Version 0 de diseño Wireframe de acuerdo a los requerimientos del cliente
+- ![Wireframe](./Introducción/Wireframe.png)
+
  - **UI**
- 
+Versión 0 de diseño  de acuerdo a la paleta de colores que solicito el cliente
+ - ![UI](./Introducción/Wireframe.png)
  
