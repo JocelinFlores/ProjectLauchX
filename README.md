@@ -1,6 +1,6 @@
 # *ProjectLauchX Frontend*
 
-## *Etapa de de desarrollo* 
+## *Etapa de desarrollo* 
 
 
  - [Introducción](./ProyectoLaunchX/Frontend/Evento/Introduccion.md) 
