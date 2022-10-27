@@ -27,7 +27,7 @@ Planeador de eventos quiere automatizar las solicitudes de sus clientes, esto lo
 
 
  **Introducción**
-  - ![Buyer](ProyectoLaunchX/Frontend/Evento/Etapa00%20Intro/Buyer.png)
+  - ![Buyer](./Etapa00%20Intro/Buyer.png)
  
  - Target Audiences
  - Diagrama de flujo
