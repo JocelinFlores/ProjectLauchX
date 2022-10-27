@@ -1,10 +1,8 @@
-# *ProjectLauchX*
+# *ProjectLauchX Frontend*
 
-> ## *Descripcion de Proyecto*
+## *Etapa de de desarrollo* 
 
-Aplicar habilidades para el Desarrollo Frontend
 
- *Fases de desarrollo*
  - [Introducción](./ProyectoLaunchX/Frontend/Evento/Introduccion.md) 
  - [HTML]
  - [CSS]
