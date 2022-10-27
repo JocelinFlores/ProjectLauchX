@@ -27,7 +27,7 @@ Planeador de eventos quiere automatizar las solicitudes de sus clientes, esto lo
 
 
  **Introducción**
-  - ![Buyer](./Etapa00%20Intro/Buyer.png)
+  - ![Buyer](./Introducción/Buyer.png)
  
  - Target Audiences
  - Diagrama de flujo
