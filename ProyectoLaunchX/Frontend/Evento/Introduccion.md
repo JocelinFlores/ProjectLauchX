@@ -27,9 +27,20 @@ Planeador de eventos quiere automatizar las solicitudes de sus clientes, esto lo
 
 
  **Introducción**
+- **Buyer** 
+- Descripción de la persona que requiere desarrollo web en su profesión
   - ![Buyer](./Introducción/Buyer.png)
  
- - Target Audiences
+ - **Target Audiences**
+ - Publico objetivo para consumir el servicio.La selección de la audiencia es basado en caracteristicas como:
+ - Edad
+ - Actividades
+ - Hobbies
+ - Ubicación
+ - Grupo sociales
+ - Herramienta utilizada: Miro 
+ - [Target Audience](./Introducción/Target Audiences.png)
+ 
  - Diagrama de flujo
  - Wireframe
  - UI 
