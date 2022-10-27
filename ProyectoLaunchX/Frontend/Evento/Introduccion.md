@@ -39,6 +39,8 @@ Planeador de eventos quiere automatizar las solicitudes de sus clientes, esto lo
  
  - **Diagrama de flujo**
  Descripción grafica del proceso 
+ [Diagrama de flujo](./ProyectoLaunchX/Frontend/Evento/Introducción/Diagramadeflujo.png)
+ 
  - **Wireframe**
  - **UI**
  
