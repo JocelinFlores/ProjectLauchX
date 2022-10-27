@@ -26,11 +26,12 @@ Planeador de eventos quiere automatizar las solicitudes de sus clientes, esto lo
 - Colores: Negro, tonalidades azules, lila, blanco
 
 
- **Etapa 00 Intro Desarrollo Proyecto**
+ **Introducción**
  
- - Buyer
- [Etapa](docs/ProjectLauchX.md) ./ProyectoLaunchX/Frontend/Evento/Etapa00%20Intro/Buyer.png
+ - [Buyer] (./ProyectoLaunchX/Frontend/Evento/Etapa00%20Intro/Buyer.png)
  - Target Audiences
  - Diagrama de flujo
  - Wireframe
  - UI 
+ 
+ 
